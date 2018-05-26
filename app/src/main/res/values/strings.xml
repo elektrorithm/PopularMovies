@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="item_popular">Popular</string>
+    <string name="item_toprated">Top Rated</string>
+    <string name="title_activity_movie_details">Movie Details</string>
+    <string name="title_main_activity_popular">Popular Movies</string>
+    <string name="title_main_activity_top_rated">Top Rated Movies</string>
+    <string name="vote_average_with_denominator">%1$s/10</string>
+    <string name="offline_error_message">Internet access is currently unavailable.</string>
+</resources>
